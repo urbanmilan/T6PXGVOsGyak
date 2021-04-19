@@ -9,7 +9,7 @@ int main(int argc, char **argv)
 {
     if(argc != 2)
     {
-        printf("Hasznalat: ./vs8kwd_gyak9_3 PID\n");
+        printf("Hasznalat: ./T6PXGV_gyak9_3 PID\n");
         return 1;
     }
 

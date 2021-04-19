@@ -19,6 +19,6 @@ int main(void)
 
 void AlarmHandler(int sig)
 {
-    printf("OYFTRQ\nMostantol nem blokkolodok!\n");
+    printf("T6PXGV\nMostantol nem blokkolodok!\n");
     exit(1);
 }
