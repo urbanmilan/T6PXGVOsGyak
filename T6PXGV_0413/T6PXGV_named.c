@@ -9,7 +9,7 @@
 #include <string.h>
 #include <unistd.h>
 
-#define NAME "BRZGJZ"
+#define NAME "T6PXGV"
 #define SIZE 64
 
 int main() {
@@ -34,7 +34,7 @@ int main() {
             exit(-1);
         }
 
-        strcpy(_buffer, "Urb·n Mil·n T6PXGV\0");
+        strcpy(_buffer, "Urb√°n Mil√°n T6PXGV\0");
         write(_open, _buffer, SIZE);
 
         close(_open);
